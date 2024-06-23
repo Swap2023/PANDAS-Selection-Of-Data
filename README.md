@@ -1,4 +1,4 @@
-# PANDAS-Selection-Of-Data
+# PANDAS-Selection-Of-Data #
 For Selecting The Data
 1. s.loc / s.iloc - s.loc[‘index’] , s.loc[‘index1’:’index2’] , s.iloc[0] , s.iloc[0:3] 
 # Selection by object Index and Selection by integer Index. 
